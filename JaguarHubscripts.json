@@ -3,7 +3,7 @@
         "title":"Project Lazarus",
         "credits": "by Jaguarhub",
         "desc" : "Best project lazarus gui Autokill - Inf money and more",
-        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Project_Lazarus.lua?token=GHSAT0AAAAAAB4WFVQGVXO4T5ZPWG76RLLIY5VU5FA\"))()",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Project_Lazarus.lua\"))()",
         "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/Png.png"
     }
  ]
