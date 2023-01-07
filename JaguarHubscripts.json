@@ -7,10 +7,10 @@
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/AltDelete.jpg"
    },
    {
-      "title":"Anti-AFK",
-      "credits": "by Rice",
-      "desc" : "[BROKEN] A simple Anti-AFK script.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/Anti-AFK..lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/!DefaultBackground.png"
+      "title":"Talk in emoji",
+      "credits": "by Edge",
+      "desc" : "A script that allows you to talk using Discord emoji characters.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/TalkInEmoji.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/TalkInEmoji.jpg"
    }
 ]
