@@ -1,16 +1,16 @@
 [
    {
-      "title":"Alt delete",
-      "credits": "by Arround",
+      "title":"Project Lazarus",
+      "credits": "by Jaguarhub",
       "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/AltDelete.jpg"
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Project_Lazarus.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/Png.png"
    },
    {
-      "title":"Talk in emoji",
-      "credits": "by Edge",
-      "desc" : "A script that allows you to talk using Discord emoji characters.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/TalkInEmoji.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/TalkInEmoji.jpg"
+      "title":"KAT",
+      "credits": "by Jaguarhub",
+      "desc" : "Silent aimbot - kill all - god and more.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
    }
 ]
