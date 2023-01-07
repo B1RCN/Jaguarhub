@@ -2,7 +2,7 @@
    {
       "title":"Project Lazarus",
       "credits": "by Jaguarhub",
-      "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
+      "desc" : "Kill zombies - inf money - inf ammo and more.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Project_Lazarus.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/Png.png"
    },
