@@ -11,7 +11,7 @@
         "credits": "by Jaguarhub",
         "desc" : "Silent aimbot and more",
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
-        "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png
+        "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
     }    
  ]
  
