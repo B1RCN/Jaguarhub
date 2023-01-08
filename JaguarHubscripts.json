@@ -13,11 +13,11 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
    },
-      {
-      "title":"Arsenal",
+   {
+      "title":"Arsenal
       "credits": "by Jaguarhub",
-      "desc" : "Silent aimbot - Troll chat - visuals and more.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
+      "desc" : "Silent aimbot - visuals - and more.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Arsenal.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/FPSArcade/Arsenal.png"
    }
 ]
