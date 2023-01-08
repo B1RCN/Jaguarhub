@@ -14,7 +14,7 @@
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
    },
    {
-      "title":"Arsenal"
+      "title":"Arsenal",
       "credits": "by Jaguarhub",
       "desc" : "Silent aimbot - visuals - and more.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Arsenal.lua\"))()",
