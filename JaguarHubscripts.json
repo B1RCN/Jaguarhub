@@ -14,10 +14,10 @@
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
    },
    {
-      "title":"KAT",
+      "title":"Arsenal",
       "credits": "by Jaguarhub",
-      "desc" : "Silent aimbot - kill all - god and more.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
+      "desc" : "Silent aimbot - visual and more.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/Arsenal.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/FPSArcade/Arsenal.png"
    }
 ]
