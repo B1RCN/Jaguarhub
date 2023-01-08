@@ -12,5 +12,12 @@
       "desc" : "Silent aimbot - kill all - god and more.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
+   },
+      {
+      "title":"Arsenal",
+      "credits": "by Jaguarhub",
+      "desc" : "Silent aimbot - Troll chat - visuals and more.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarScripts/main/KAT.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/Jaguarhub/main/jaguarxhubimages/KAT.png"
    }
 ]
